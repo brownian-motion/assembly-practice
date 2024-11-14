@@ -10,4 +10,4 @@ clean:
 	nasm -f elf64 -g -F DWARF $<
 
 hello_world: hello_world.o
-	ld -e start -o $@ $<
+	ld -e _start -o $@ $<
