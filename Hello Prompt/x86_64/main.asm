@@ -1,3 +1,12 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Author:    JJ Brown
+; Published: 2024-11-14
+; License:   Free to reference for educational use.
+;            Do not submit as your own work.
+; Platform:  Linux, x86_64
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
 global _start
 
 ; there are 4 major sections:
